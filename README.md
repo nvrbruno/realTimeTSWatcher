@@ -191,3 +191,7 @@ Os status possíveis são:
 | `DB_USER` | Usuário do MySQL |
 | `DB_PASSWORD` | Senha do MySQL |
 | `DB_DATABASE` | Nome do banco de dados |
+
+## Créditos
+
+Desenvolvido com assistência do [Claude](https://claude.ai) (Anthropic).
